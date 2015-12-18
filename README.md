@@ -1,3 +1,3 @@
 # bidon
 
-This is a trial text. 
+This is a short description
